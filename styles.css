@@ -39,7 +39,8 @@ button:first-of-type {
     margin-left: calc(50% - 131.5px);
 }
 
-button::hover {
-    cursor: pointer;   
-}
 
+p {
+    margin-top: 40px;
+    text-align: center;
+}
